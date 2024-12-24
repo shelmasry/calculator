@@ -5,4 +5,5 @@ public int addition(int a, int b) {
 }
 }
 
-"public double addition_2(double a, double b) { return a + b1 ; } " 
+ 
+"public double addition_2(double a, double b) { return a + c ; } " 
